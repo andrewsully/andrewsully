@@ -12,7 +12,7 @@ I created this professional profile to highlight a few of the projects that I've
  </ul>
  <br>
 
-Please feel free to browse my github repositories and connect with me on  Linkedin.
+Please feel free to browse my github repositories (see pinned projects) and connect with me on  Linkedin.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?&style=for-the-badge)](https://www.linkedin.com/in/andrewjosephsullivan/)
 
